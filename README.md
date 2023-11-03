@@ -1,3 +1,4 @@
-<h3 align="center">
-  <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" align="center" alt="Party Parrot" width="50px" height="50px">
-</h3>
+<p align="center">
+  <img src="https://github.com/apokusin/apokusin/assets/1258230/3abcfede-42f8-45f1-8b73-8e73cd3f7c2a" />
+</p>
+
